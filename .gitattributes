@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=auto
+# Release files are stored byte for byte: the game checks some of them exactly,
+# so git must never convert line endings.
+* -text

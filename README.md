@@ -21,16 +21,13 @@ Because this is strictly a preservation project, new gameplay features outside t
 - Local profiles that save and track your episode progress, with completion stats in the launcher.
 - Original Xbox 360 achievements, unlockable with in-game notifications.
 - In-game level builder that supports playing your custom levels online. Players can also export their levels via the launcher and send them to others.
-
+ 
 ## Requirements
-
 - Windows 10 or higher
 - SSE4.2-compatible processor (AVX2 preferred)
-
----
+- Forward UDP ports 1000 and 1001 for hosting multiplayer.
 
 ## FAQ
-
 ### Why did you port this?
 
 N+ has always held a special place in my heart. I enjoyed it on many amazing nights during LAN parties back in my senior year of high school. Unfortunately, time hasn't been kind to N+: it is currently unobtainable, and the only way to play it is through emulation. Xenia introduces a very annoying "jittery ninja" physics bug that irked me, so I made it a personal challenge to restore the game to its former glory and bring back some of the functionality lost to time.

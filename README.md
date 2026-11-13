@@ -8,7 +8,7 @@ Because this is strictly a preservation project, new gameplay features outside t
 
 > [!IMPORTANT]
 > Please direct all PC port questions and issues to **theincredibleholc** on Discord.\
-> **Do not bug the N+ developers or the official N++ Discord for support!**
+> **Do not bug the N+ developers or the official N++ Discord for support!**\
 
 ## Features
 
@@ -34,14 +34,15 @@ N+ has always held a special place in my heart. I enjoyed it on many amazing nig
 
 ### How do I host online games?
 
-Hosts need to forward UDP ports 1000 and 1001 on their router. Once in-game, go to **Multiplayer → System Link → Create Lobby**. Proceed through the menus. Once you're at the player lobby screen, you can either invite people through Discord or give them your IP for a direct connection.
+1. **Allow the Admin prompt:** The first time you launch the game it asks for admin rights to set up the multiplayer firewall rules (UDP 1000–1001) automatically. Click **Allow**, or you'll need to create those rules yourself.
+2. **Forward UDP ports 1000 and 1001 on your router.**
+3. **Create a lobby:** In-game, go to **Multiplayer → System Link → Create Match** and continue through the menus.
+4. **Invite players:** When at the player lobby screen, either invite people through Discord or give them your IP for a direct connection.
 
 ### How do I join online games?
 
 - **Method A:** Have the host send you an invite over Discord, then accept the invite.
-- **Method B:** Go to **Multiplayer → System Link → Join Game**. A pop-up will ask for the host's IP. Either enter an IP or pick one from the drop-down list of saved IPs. (You can name and save connections to make joining faster in the future.)
-
-Be sure to **allow** the game through your firewall if you get the prompt!
+- **Method B:** Go to **Multiplayer → System Link → Join Match**. A pop-up will ask for the host's IP. Either enter an IP or pick one from the drop-down list of saved IPs. (You can name and save connections to make joining faster in the future.)
 
 ### How do I obtain achievements?
 

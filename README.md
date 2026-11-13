@@ -1,14 +1,13 @@
 # N+ PC Port
 
-Greetings Ninjas!
+Welcome Ninjas!
 
 This PC port is a preservation project that lets people play the 2008 XBLA version of N+, which is unavailable on the Xbox Marketplace and is becoming lost media. This recomp is based on the ROM provided in the N++ Discord.
 
-Because this is strictly a preservation project, new gameplay features outside the scope of the original game will not be added. If you love this game and want a new experience, support the devs: [**buy N++**](https://store.steampowered.com/app/230270/N_NPLUSPLUS/) and [**wishlist N+InfinityTimesTwo**](https://store.steampowered.com/app/3040020/N_PLUS_INFINITY_TIMES_TWO/) on Steam!
-
-Lastly, please direct all PC port questions and issues to **theincredibleholc** on Discord.
+Because this is strictly a preservation project, new gameplay features outside the scope of the original game will not be added. If you love this game and want a new experience, support the devs! [**Buy N++**](https://store.steampowered.com/app/230270/N_NPLUSPLUS/) and [**wishlist N+InfinityTimesTwo**](https://store.steampowered.com/app/3040020/N_PLUS_INFINITY_TIMES_TWO/) on Steam!
 
 > [!IMPORTANT]
+> Please direct all PC port questions and issues to **theincredibleholc** on Discord.\
 > **Do not bug the N+ developers or the official N++ Discord for support!**
 
 ## Features
@@ -79,4 +78,4 @@ No, but you can find me around Discord if you'd like! — The Incredible Holc
 
 ### I love this project. Where can I donate?
 
-Donations are not accepted. If you enjoy this game and love the N series, support the original devs: [**buy N++**](https://store.steampowered.com/app/230270/N_NPLUSPLUS/) and [**wishlist N+InfinityTimesTwo**](https://store.steampowered.com/app/3040020/N_PLUS_INFINITY_TIMES_TWO/), their newest upcoming N release, on Steam!
+Donations are not accepted. If you enjoy this game and love the N series, support the original devs! [**Buy N++**](https://store.steampowered.com/app/230270/N_NPLUSPLUS/) and [**wishlist N+InfinityTimesTwo**](https://store.steampowered.com/app/3040020/N_PLUS_INFINITY_TIMES_TWO/) on Steam!

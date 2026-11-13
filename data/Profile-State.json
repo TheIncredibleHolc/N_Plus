@@ -1,0 +1,11 @@
+{
+  "state": "signed out",
+  "profileRegistry": [],
+  "XUID": null,
+  "name": null,
+  "signinInfoSize": 40,
+  "failureHRESULT": "80070525",
+  "scope": "four ordered original main info/state pairs; no profile creation or Xbox authentication",
+  "source": "https://raw.githubusercontent.com/xenia-project/xenia/master/src/xenia/kernel/xam/xam_user.cc",
+  "signinState": 0
+}

@@ -8,7 +8,7 @@ Because this is strictly a preservation project, new gameplay features outside t
 
 > [!IMPORTANT]
 > Please direct all PC port questions and issues to **theincredibleholc** on Discord.\
-> **Do not bug the N+ developers or the official N++ Discord for support!**\
+> **Do not bug the N+ developers or the official N++ Discord for support!**
 
 ## Features
 
